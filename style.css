@@ -108,6 +108,7 @@ img{
     border-radius: 50% 50% 50% 50%;
     background-color: hsl(211, 100%, 67%);
     z-index: -2;
+    opacity: 0.4;
 }
 
 .home-text{
