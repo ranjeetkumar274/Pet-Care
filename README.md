@@ -2,7 +2,7 @@
 # Welcome to Pet-Care! This web application offers a variety of services to ensure your pets receive the best care.
 
 
-##🚀 Features
+## 🚀 Features
 - 🏠 Service Listings: Explore a wide range of pet care services.
 - 📱 Responsive Design: Seamlessly accessible on all devices.
 - 🎨 User-Friendly Interface: Intuitive navigation and engaging UI.
